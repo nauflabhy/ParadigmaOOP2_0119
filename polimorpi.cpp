@@ -2,7 +2,7 @@
 using namespace std;
 
 class seseorang {
-
+    public:
 };
 
 class joko :public seseorang {
