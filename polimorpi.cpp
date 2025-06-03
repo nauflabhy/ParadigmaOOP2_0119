@@ -6,7 +6,7 @@ class seseorang {
 };
 
 class joko :public seseorang {
-
+    public:
 };
 
 class lia: public seseorang {
